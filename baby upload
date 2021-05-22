@@ -1,0 +1,40 @@
+{
+  "title": "Baby steps",
+  "description": "Alors qu'il est un jeune étudiant faisant passer ses études au premier plan, Eiichirô Maruo décide un jour d'aller regarder les étudiants du club de tennis. Rapidement, Eiichirô est captivé par ce sport, notamment grâce à Takuma Egawa et Natsu Takasaki, deux membres du club, et décide de s'y investir totalement. Malgré son mauvais conditionnement physique, il utilise son intelligence et ses talents d'analyse pour progresser rapidement et battre ses adversaires afin de devenir un joueur professionnel.",
+  "Auteur": "KACHIKI Hikaru",
+  "cover": "https://miammiam-team.org/wp-content/uploads/2016/04/baby-steps-tome-7-2288412-203x300.jpg",
+  "chapters": {
+    "51": {
+      "title": "Un atout",
+       "volume": "6",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/msnnEbU/"
+      },
+      "last_updated": "1616368746"
+    },
+      "52": {
+      "title": "16 ans",
+      "volume": "6",
+      "groups": {
+      "MiamMiam Team": "/proxy/api/imgur/chapter/7nxMcWX/"
+   },
+   "last_updated": "1616368746"
+  },
+   "53": {
+      "title": "Le All-Japan",
+      "volume": "6",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/D0NXkqX/"
+      },
+      "last_updated": "1615889716"
+    },
+     "54": {
+      "title": "Grade A",
+      "volume": "6",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/puGG44D/"
+      },
+      "last_updated": "1620638116"
+     }  
+   }
+  }
