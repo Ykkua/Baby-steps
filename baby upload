@@ -35,6 +35,22 @@
         "MiamMiam Team": "/proxy/api/imgur/chapter/puGG44D/"
       },
       "last_updated": "1620638116"
-     }  
+      },
+   "55": {
+      "title": "En cours",
+      "volume": "6",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/pEe37MF/"
+      },
+      "last_updated": "1622665910"
+     },
+   "56": {
+      "title": "Seulement un échauffement",
+      "volume": "6",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/cYcZdOT/"
+      },
+      "last_updated": "1622665910"
+    }  
    }
   }
